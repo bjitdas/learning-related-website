@@ -1,6 +1,6 @@
 # Getting Started learn with Learning Academy
 
-This project is about [Learning Academy](https://elegant-hodgkin-55d66a.netlify.app/).
+This is the website of [Learning Academy](https://elegant-hodgkin-55d66a.netlify.app/).
 
 
 ◉ This is the website of best online learning - Learning Academy.
