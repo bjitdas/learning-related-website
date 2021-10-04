@@ -1,0 +1,10 @@
+.course-container{
+    margin: 5px;
+    text-align: center;
+}
+.course-container h2{
+    margin: 20px;
+    font-size: 3rem;
+    font-weight: 700;
+    color: rgb(109, 3, 61);
+}

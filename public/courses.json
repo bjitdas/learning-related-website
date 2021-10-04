@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1a",
+        "name": "Data Science",
+        "description": "Data Science today has become a dynamic field today and the best course after graduation. Data scientists help firms to analyze consumer patterns in markets.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR73prsBGaVY4pWeSMvEnlKPXE3VB-gNWKago64lQLIdOXVr-dVVptNzT4ry99ymr8K4VU&usqp=CAU",
+        "duration": "30 days",
+        "articles": "20 articles"
+    },
+    {
+        "id": "2b",
+        "name": "Artificial Intelligence",
+        "description": "Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision.",
+        "img": "https://img.etimg.com/thumb/msid-77198656,width-640,resizemode-4,imgsize-678126/first-what-is-the-big-fuss-really.jpg",
+        "duration": "60 days",
+        "articles": "30 articles"
+    },
+    {
+        "id": "3c",
+        "name": "Machine Learning",
+        "description": "Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.",
+        "img": "https://cdn.britannica.com/s:800x450,c:crop/40/216540-138-14385CFE/How-machine-learning-is-predicting-synthetic-products.jpg",
+        "duration": "75 days",
+        "articles": "40 articles"
+    },
+    {
+        "id": "4h",
+        "name": "AWS Solutions",
+        "description": "Deploy Secure, Reliable, & Scalable Websites, Apps or Processes with Free Cloud Computing. Access Free AWS Cloud Servers. Global Instance Availability. Industry Leading Security. Choice & Flexibility. Create a Free Account. Cloud Computing Services.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxzsBAXAjf0zzA_4VBa5mI03uxPWSqstmfYG4sJMaWY55yPprab0p7WwD8OSXfrsFsTuo&usqp=CAU",
+        "duration": "60 days",
+        "articles": "35 articles"
+    },
+    {
+        "id": "5k",
+        "name": "Ethical Hacking",
+        "description": "Ethical hacking is a process of detecting vulnerabilities in an application, system, or organization's infrastructure that an attacker can use to exploit an individual or organization.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPEOgOy13tnZlzgoD0Ne_iW7oI25X4BKfTmfjS0uvSEHb-NzvahqnzJ6nTYEYnmAhiUFo&usqp=CAU",
+        "duration": "52 days",
+        "articles": "32 articles"
+    },
+    {
+        "id": "7j",
+        "name": "Digital marketing",
+        "description": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication",
+        "img": "https://i0.wp.com/marketbusinessnews.com/wp-content/uploads/2018/08/Digital-Marketing.jpg?fit=708%2C624&ssl=1",
+        "duration": "50 days",
+        "articles": "30 articles"
+    },
+    {
+        "id": "8j",
+        "name": "Photography",
+        "description": "Photography is the art, application, and practice of creating durable images by recording light, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3woPM1r_UD5dbPj2VnNt5iDN6E2hkdBM0jwvBTmhHrR4k6XyS3ci21DElyttAh9zoNgo&usqp=CAU",
+        "duration": "40 days",
+        "articles": "25 articles"
+    },
+    {
+        "id": "9n",
+        "name": "Project Management",
+        "description": "Project management is the process of leading the work of a team to achieve all project goals within the given constraints. The objective of project management is to produce",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Project_development_stages.jpg/230px-Project_development_stages.jpg",
+        "duration": "45 days",
+        "articles": "28 articles"
+    },
+    {
+        "id": "10p",
+        "name": "Business Analytics",
+        "description": "Business analytics (BA) refers to the skills, technologies, and practices for continuous iterative exploration and investigation of past business performance to gain insight and drive business planning.",
+        "img": "https://online.hbs.edu/Style%20Library/api/resize.aspx?imgpath=/PublishingImages/Business%20Analytics%20Meeting.png&w=1200&h=630",
+        "duration": "45 days",
+        "articles": "25 articles"
+    },
+    {
+        "id": "6v",
+        "name": "Mass Communication",
+        "description": "Mass communication is practiced multiple mediums, such as radio, television, social networking, billboards, newspapers, magazines, books, film, and the Internet.",
+        "img": "https://icdn.isrgrajan.com/in/2017/04/mass-communication-696x449.jpg",
+        "duration": "30 days",
+        "articles": "20 articles"
+    }
+]

@@ -1,0 +1,23 @@
+.home-container{
+    text-align: center;
+    margin: 20px;
+}
+.home-container h1{
+    color: rgb(145, 4, 158);
+}
+.home-container h2{
+    color: rgba(2, 197, 211, 0.808);
+    font-weight: 800;
+    margin: 20px;
+}
+.home-container button {
+    color: cornsilk;
+    font-weight: 600;
+    background-color: rgb(179, 24, 37);
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 30px;
+}
